@@ -1,4 +1,4 @@
-.color1{ 
+.color1 { 
   color: #59788e;
   font-size:40px;
 }
@@ -6,4 +6,9 @@
   background-color: #59788e;
   color: white;
   text-align: center;
+}
+.bigtext {
+  text-align: center;
+  background-color: #59788e
+  font-size: 29px;
 }
