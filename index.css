@@ -1,7 +1,7 @@
 .color1{ 
-  color:blue;
+  color: light blue;
   font-size:40px;
 }
 .button1:hover {
-  background-color: blue;
+  background-color: light blue;
 }
