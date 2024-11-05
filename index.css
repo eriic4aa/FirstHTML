@@ -20,7 +20,9 @@
   font-size:29px;
   width: 450px;
   height: 200px;
+  opacity:0.5;
 }
+.bigtext:hover{ opacity:1;}
 
 td { 
 border: 1px solid black;
