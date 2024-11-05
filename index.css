@@ -24,6 +24,9 @@
   text-align: center;
   background-color: #59788e;
   font-size:29px;
+  width: 450px;
+  height: 450px;
+  padding: 40px;
 }
 
 td { 
