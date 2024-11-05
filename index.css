@@ -10,6 +10,14 @@
   cursor: pointer;
   width: 450px;
 }
+.button {
+  background-color: #59788e;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  cursor: pointer;
+  width: 450px;
+}
 .bigtext {
   text-align: center;
   background-color: #59788e;
