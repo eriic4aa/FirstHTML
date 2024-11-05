@@ -8,7 +8,7 @@
   text-align: center;
   cursor: pointer;
   width: 450px;
-  height: 450px;
+  height: 200px;
 }
 .button {
   background-color: #59788e;
@@ -16,14 +16,14 @@
   text-align: center;
   cursor: pointer;
   width: 450px;
-  height: 450px;
+  height: 200px;
 }
 .bigtext {
   text-align: center;
   background-color: #59788e;
   font-size:29px;
   width: 450px;
-  height: 450px;
+  height: 200px;
 }
 
 td { 
