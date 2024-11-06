@@ -7,7 +7,7 @@
 }
 .button1 {
   background-color: #728c69;
-  color: blue;
+  color: white;
   text-align: center;
   cursor: pointer;
   width: 450px;
@@ -24,7 +24,7 @@
 }
 .bigtext:hover{ opacity:1;}
 td { 
-border: 1px solid black;
+border: colapse;
    height: 60px;
    text-align: center;
   font-size: 45px;
