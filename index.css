@@ -1,7 +1,6 @@
 .color1 { 
   color: #59788e;
   font-size:40px;
-  background-color: green;
 }
 .button1:hover {
   opacity:1;
@@ -30,4 +29,8 @@ border: colapse;
    text-align: center;
   font-size: 45px;
   width: 450px;
+}
+
+td {
+  background-color: #597d35;
 }
