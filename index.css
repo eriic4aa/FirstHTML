@@ -3,7 +3,7 @@
   font-size:40px;
 }
 .button1:hover {
-  opacity:0.7;
+  opacity:0.3;
 }
 .button1 {
   background-color: #728c69;
@@ -12,7 +12,7 @@
   cursor: pointer;
   width: 450px;
   height: 200px;
-  opacity:0.5;
+  opacity:0.1;
   font-family: comic-sans
 }
 .bigtext {
