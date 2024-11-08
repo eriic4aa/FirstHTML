@@ -7,7 +7,7 @@
 }
 .button1 {
   background-color: #728c69;
-  color: white;
+  color: #354a21;
   text-align: center;
   cursor: pointer;
   width: 450px;
@@ -32,6 +32,6 @@ border: colapse;
   width: 450px;
 }
 
-td {
+body {
   background-color: #597d35;
 }
