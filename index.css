@@ -29,8 +29,11 @@
   font-weight: bold;
 }
 body {
-  background-color: #355e3b;
+  background-color: #4b6b37;
 }
 .b {
   font-size: 32px;
+}
+.image2 {
+  text-align: center;
 }
