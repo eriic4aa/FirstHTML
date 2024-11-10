@@ -9,7 +9,7 @@
   cursor: pointer;
   width: 450px;
   height: 200px;
-  opacity:1;
+  opacity: 0.3;
   font-family: georgia, serif;
 }
 .bigtext {
@@ -26,6 +26,7 @@
   font-size: 45px;
   width: 450px;
   font-family: georgia, serif;
+  opacity: 1;
 }
 
 body {
