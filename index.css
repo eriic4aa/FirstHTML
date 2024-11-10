@@ -2,15 +2,8 @@
   color: black;
   font-size:40px;
 }
-.button1:hover{
-  background-color: #728c69;
-  color: #354a21;
-  text-align: center; 
-  cursor: pointer;
-  width: 450px;
-  height: 200px;
+.button1:hover {
   opacity: 0.3;
-  font-family: georgia, serif;
 }
 .bigtext {
   text-align: center;
@@ -27,6 +20,7 @@
   width: 450px;
   font-family: georgia, serif;
   opacity: 1;
+  color: #354a21;
 }
 
 body {
