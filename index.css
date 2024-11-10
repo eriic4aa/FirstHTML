@@ -19,7 +19,7 @@
   width: 450px;
   height: 200px;
 }
-.button { 
+.button: hover { 
   border: colapse;
   height: 60px;
   text-align: center;
