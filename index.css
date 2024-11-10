@@ -4,6 +4,7 @@
 }
 .button1:hover {
   opacity: 0.8;
+  font-family: georgia, serif;
 }
 .bigtext {
   text-align: center;
