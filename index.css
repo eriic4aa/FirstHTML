@@ -1,6 +1,7 @@
 .color1 { 
   color: black;
-  font-size:30px;
+  font-size:26px;
+  text-align:right
 }
 .button1:hover {
   opacity: 0.8;
