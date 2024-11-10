@@ -28,6 +28,9 @@
   text-align: right;
   font-weight: bold;
 }
+body {
+  background-color: #355e3b;
+}
 .b {
   font-size: 32px;
 }
