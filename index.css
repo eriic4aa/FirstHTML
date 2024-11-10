@@ -10,7 +10,7 @@
   width: 450px;
   height: 200px;
   opacity:0;
-  font-family: comic-sans
+  font-family: georgia, serif;
 }
 .bigtext {
   text-align: center;
@@ -26,6 +26,7 @@ border: colapse;
    text-align: center;
   font-size: 45px;
   width: 450px;
+  font-family: georgia, serif;
 }
 
 body {
