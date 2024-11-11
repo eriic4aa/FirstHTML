@@ -10,6 +10,7 @@
 }
 .title1 {
   font-size:25px;
+  font-weight: bolder;
 }
 .button1:hover {
   opacity: 0.8;
@@ -38,6 +39,7 @@
 }
 body {
   background-color: #557442;
+  font-size: 22px;
 }
 .b {
   font-size: 32px;
